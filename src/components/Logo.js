@@ -1,5 +1,5 @@
 function Logo() {
-    return <div>NikoFit</div>;
+    return <div  className="text-4xl text-primary font-semibold cursor-pointer">NikoFit</div>;
 }
 
 export default Logo

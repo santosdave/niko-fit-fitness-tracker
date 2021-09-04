@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       backgroundImage: (theme) => ({
         "signin-image":
-          "url('https://www.avfitness.ke/wp-content/uploads/2016/05/shoesgal.jpg')",
+          "url('https://hapakenya.com/wp-content/uploads/2016/01/mukami.jpg')",
       }),
       colors: {
         primary: "#182277",
